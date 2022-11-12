@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "watch:scss": "node-sass -w style/main.scss style/main.css"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.10.1",
+    "node-sass": "^8.0.0",
+    "npm": "^9.1.1",
+    "swiper": "^8.4.4"
+  }
+}
